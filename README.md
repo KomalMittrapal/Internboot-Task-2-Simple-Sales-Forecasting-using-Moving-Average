@@ -45,8 +45,9 @@ The analysis is performed on the *Favorita Store Sales* dataset, and all outputs
 | **Deliverable** | **File Name** | **Description** |
 |------------------|---------------|------------------|
 | Used Train Dataset | `train.csv` | Includes static & sequential forecasts |
-| Complete Code | `task2_ma.ipynb` | Full executable Python code |
+| Complete Code | `task2_Simple_Sales_Forecast_with_Moving_Average.ipynb` | Full executable Python code |
 | Documentation | `README.md` | Project summary and instructions |
+| Output | `TASK_2_Output_Files` | Contain all Output Files |
 
 ## 📝 **Summary of Results (Table Format)**
 
