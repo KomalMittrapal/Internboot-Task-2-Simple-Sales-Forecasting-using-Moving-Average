@@ -1,0 +1,10 @@
+Rows: 3000888 Columns: ['id', 'date', 'store_nbr', 'family', 'sales', 'onpromotion']
+
+Using holdout_days = 30
+
+      method            MAE           RMSE
+0   static_7   91880.220254  117101.028467
+1  static_30  117378.244288  136113.902614
+2      seq_7   97448.059100  120541.580080
+3     seq_30   98272.570277  121065.383350
+
