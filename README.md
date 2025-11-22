@@ -49,15 +49,14 @@ The analysis is performed on the *Favorita Store Sales* dataset, and all outputs
 | Documentation | `README.md` | Project summary and instructions |
 | Output | `TASK_2_Output_Files` | Contain all Output Files |
 
-## 📝 **Summary of Results (Table Format)**
+## 📝 **Summary of Results**
 
-| **Method** | **Type** | **Error Metric** |
-|------------|----------|------------------|
-| Static MA(7) | Baseline | MAE / RMSE |
-| Static MA(30) | Baseline | MAE / RMSE |
-| Sequential MA(7) | Predictive | MAE / RMSE | 
-| Sequential MA(30) | Predictive | MAE / RMSE |
-| Trend Visuals | Analysis | PNG Plots |
+| **Method** | **Type** |   **MAE**  |  **RMSE** |
+|------------|----------|------------------|------|
+| Static MA(7) | Baseline | 91880.22 | 117101.03 |
+| Static MA(30) | Baseline | 117378.24 | 136113.90 |
+| Sequential MA(7) | Predictive | 97448.06 | 120541.58 | 
+| Sequential MA(30) | Predictive | 98272.57 | 121065.38 |
 
 ---
 *Created by Komal for the Data Analyst Internship Program.*
